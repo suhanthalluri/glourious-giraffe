@@ -89,3 +89,5 @@ elif readiness >= 6 and readiness < 9:
 elif readiness >= 9 and readiness <=10:
     print("Amazing! You could review a little if wanted. A good time may be at",dow,"for 15 to 20 min")
 #maybe adjust a few things with the reaiessd what day , schedule things
+elif readiness == 10:
+    print("Great!Keep working hard!")
