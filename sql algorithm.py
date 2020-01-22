@@ -8,3 +8,4 @@ mydb = mysql.connector.connect(
 print(mydb)
 #try to figure out why the sql isnt workinh
 #consult someone for help
+#is this still worth working on
