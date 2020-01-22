@@ -91,3 +91,4 @@ elif readiness >= 9 and readiness <=10:
 #maybe adjust a few things with the reaiessd what day , schedule things
 elif readiness == 10:
     print("Great!Keep working hard!")
+#how would we implement this in an actual interface
