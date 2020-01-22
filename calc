@@ -22,3 +22,7 @@ var markmass = prompt("Mark, what is your mass?")
 var Johnmass = prompt("John, what is your mass?")
 var markheight = prompt("Mark, what is your height?")
 var Johnheight = prompt("John, what is your height?")
+
+//start html and css
+// test BMI calc 
+//use 2 operations for calc but perhaps try to make it 3
